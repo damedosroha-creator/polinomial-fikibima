@@ -1,0 +1,6 @@
+{
+  "name": "Polinomial Masterclass",
+  "description": "Aplikasi Pembelajaran & Latihan Interaktif Suku Banyak SMA Kelas XI bersama Mister Jo (Grup FIKIBIMA)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
